@@ -1,4 +1,3 @@
-A simple patch so Lifter from Biotech can Haul Fuel Rods from Dubs Rimatomics
-Lifter Can do Nuclear
+# Lifter Can do Nuclear
 
-This is a patch for Rimworld that allows the Lifter from the Biotech DLC to work with Rimatomic.
+A simple mod for Rimworld so that Lifter from Biotech DLC can Haul Fuel Rods from Dubs Rimatomics' mod
